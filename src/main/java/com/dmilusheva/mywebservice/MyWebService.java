@@ -1,4 +1,4 @@
-package com.softwareag.mywebservice;
+package com.dmilusheva.mywebservice;
 
 /**
  * A simple test service which calculate the addition of two numbers.
